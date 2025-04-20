@@ -1,12 +1,12 @@
 # 🚀 Growth-Powered Prompts for Product Managers
 
-Welcome to a curated collection of powerful prompts tailored for **Senior Product Managers** focused on **user conversion**, **activation**, and **retention**. Use these prompts with tools like **ChatGPT**, **Claude**, or any LLM-based assistant to supercharge your product workflows.
+Welcome to a curated collection of powerful prompts tailored for **Product Managers** focused on **user conversion**, **activation**, and **retention**. Use these prompts with tools like **ChatGPT**, **Claude**, or any LLM-based assistant to supercharge your product workflows.
 
 ---
 
 ## 🧠 Why This Repo?
 
-As a Senior Product Manager, you're expected to move fast, think deep, and deliver user-centric outcomes. These prompts are designed to:
+As a Product Manager, you're expected to move fast, think deep, and deliver user-centric outcomes. These prompts are designed to:
 
 - Kickstart **growth strategies**
 - Improve **onboarding flows**
@@ -30,6 +30,19 @@ Whether you're brainstorming with your team or debugging a growth bottleneck, th
 
 ---
 
+### 🧠 Pro-Level Prompt Series
+
+- [Behavioral Email Optimization using RFM Segmentation](prompts/pro/behavioral-email-rfm.md)
+- [Build a GPT Agent to Prioritize Growth Ideas (ICE/PIE Framework)](prompts/pro/growth-ideas-ice-pie.md)
+- [Identify Cognitive Load in User Activation Flow](prompts/pro/cognitive-load-activation.md)
+- [Create a Retargeting Playbook Using Emotional Triggers](prompts/pro/retargeting-emotional-triggers.md)
+- [Hypothesis Generator for Feature A/B Testing (Using JTBD)](prompts/pro/ab-hypothesis-jtbd.md)
+- [Root Cause Analysis Prompt for Drop in Key Metrics](prompts/pro/root-cause-metrics.md)
+- [Build an AI-Powered Persona Generator from CRM Logs](prompts/pro/ai-persona-generator.md)
+
+---
+
+
 ## 🛠️ How to Use
 
 1. Copy any prompt into ChatGPT or your favorite LLM tool.
@@ -46,10 +59,5 @@ Feel free to fork, share, or submit a PR. Let’s grow together 💪
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 Created with 💡 by a Senior Product Manager obsessed with growth, UX, and AI.
+
